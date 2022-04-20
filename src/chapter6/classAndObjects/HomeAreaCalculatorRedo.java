@@ -1,5 +1,5 @@
 package chapter6.classAndObjects;
-
+// OBJECTS AS METHOD PARAMETERS AND RETURNS TYPES
 import java.util.Scanner;
 
 public class HomeAreaCalculatorRedo {
